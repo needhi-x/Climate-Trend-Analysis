@@ -114,10 +114,15 @@ python main.py
 ## 📈 Workflow
 
 1.Data Generation (Synthetic Data)
+
 2.Data Preprocessing
+
 3.Feature Engineering
+
 4.Trend Analysis
+
 5.Visualization
+
 6.Forecasting (Linear Regression)
 
 

@@ -113,12 +113,12 @@ python main.py
 
 ## 📈 Workflow
 
-- Data Generation (Synthetic Data)
-- Data Preprocessing
-- Feature Engineering
-- Trend Analysis
-- Visualization
-- Forecasting (Linear Regression)
+- 1. Data Generation (Synthetic Data)
+- 2. Data Preprocessing
+- 3. Feature Engineering
+- 4. Trend Analysis
+- 5. Visualization
+- 6. Forecasting (Linear Regression)
 
 ## 📌 Future Scope
 

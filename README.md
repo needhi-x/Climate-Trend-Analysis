@@ -29,11 +29,17 @@ This project simulates and analyzes climate data over 10 years, focusing on:
 ## 📊 Features
 
 ✔️ Synthetic climate data generation
+
 ✔️ Data preprocessing & feature engineering
+
 ✔️ Moving average trend analysis
+
 ✔️ Anomaly detection
+
 ✔️ Multi-variable visualization
+
 ✔️ Seasonal insights
+
 ✔️ Temperature forecasting (Linear Regression)
 
 ---
@@ -80,10 +86,10 @@ Climate-Trend-Analysis/
 ![humidity](images/humidity_trend.png)
 
 ## 📅 Seasonal Analysis
-![analysis](images/analysis_trend.png)
+![analysis](images/season_temp.png)
 
 ## 🔮 Forecast
-![forecast](images/forecast_trend.png)
+![forecast](images/forecast.png)
 
 ---
 

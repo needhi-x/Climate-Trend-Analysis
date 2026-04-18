@@ -5,14 +5,18 @@ An end-to-end data science project that analyzes long-term climate patterns and 
 ---
 ## 📌 Project Overview
 
-This project simulates and analyzes climate data over 10 years, focusing on:
+The Climate Trend Analyzer is a data science project designed to simulate, analyze, and forecast climate variables over time.
 
-- 🌡️ Temperature trends
-- 🌧️ Rainfall patterns
-- 💧 Humidity variations
-- 📅 Seasonal analysis
-- ⚠️ Anomaly detection
-- 🔮 Future forecasting
+It focuses on identifying long-term trends in:
+
+- 🌡️ Temperature
+
+- 🌧️ Rainfall
+
+- 💧 Humidity
+  
+and predicting future temperature using a machine learning model.
+
 
 ---
 
